@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![Screenshot](image/images)
+![Screenshot](image/images.jpeg)
